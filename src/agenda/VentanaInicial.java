@@ -13,7 +13,7 @@ import com.toedter.calendar.demo.DateChooserPanel;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.TimeZone;
-public class Agenda {
+public class VentanaInicial {
 
     /**
      * @param args the command line arguments
